@@ -1,2 +1,25 @@
-# matrix
- A TypeScript and React project that finds a path for a moving object through a matrix, while generating random blocking objects at each step
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/darkosimic025/matrix.git
+```
+
+Go to the project directory
+
+```bash
+  cd matrix
+```
+
+Install dependencies
+
+```bash
+  yarn install
+```
+
+Start the server
+
+```bash
+  yarn dev
+```
