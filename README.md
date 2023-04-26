@@ -3,7 +3,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/darkosimic025/matrix.git
+  git clone https://github.com/darkosimic025/darko_simic_fatcat_task.git
 ```
 
 Go to the project directory
