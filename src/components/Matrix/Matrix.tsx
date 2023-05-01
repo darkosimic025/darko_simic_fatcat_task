@@ -44,6 +44,7 @@ const calculatePath = (
      Number of Blocking Objects: ${numBlockingObjects}
      Execution Time: ${executionTime.toFixed(2)}ms`
   );
+  console.log('Path and blocking objects: ', newPath);
   return newPath;
 };
 
